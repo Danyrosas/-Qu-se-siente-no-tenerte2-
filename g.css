@@ -1,0 +1,109 @@
+#estilo1{
+  background-color: #FFD3E5;
+  font-size: 80px;
+  font-family: Forte;
+  color: #472432;
+}
+
+
+body{
+
+	background-color:#FC207A;
+}
+
+
+.imagen1{
+	background-image: url("/imagenes/dancinn.jpg");
+	width: 350px;
+	height: 350px;
+}
+
+.imagen1:hover{
+	background-image: url("/imagenes/a7.jpg");
+	width: 350px;
+	height: 350px;
+}
+
+.imagen2{
+	background-image: url("/imagenes/dancinn.jpg");
+	width: 350px;
+	height: 350px;
+}
+
+.imagen2:hover{
+	background-image: url("/imgenes/estrellas.jpg");
+	width: 350px;
+	height: 350px;
+}
+
+.imagen3{
+	background-image: url("/imagenes/dancinn.jpg");
+	width: 350px;
+	height: 350px;
+}
+
+.imagen3:hover{
+	background-image: url("/imagenes/gato cool 2.jpg");
+	width: 350px;
+	height: 350px;
+}
+
+.imagen4{
+	background-image: url("/imagenes/dancinn.jpg");
+	width: 350px;
+	height: 350px;
+}
+
+.imagen4:hover{
+	background-image: url("/imagenes/bob con una flor.jpg");
+	width: 350px;
+	height: 350px;
+}
+
+.imagen5{
+	background-image: url("/img/shadow copa.jpg");
+	width: 350px;
+	height: 350px;
+}
+
+.imagen5:hover{
+	background-image: url("/imagenes/a7.jpg");
+	width: 350px;
+	height: 350px;
+}
+
+.imagen6{
+	background-image: url("/imagenes/dancinn.jpg");
+	width: 350px;
+	height: 350px;
+}
+
+.imagen6:hover{
+	background-image: url("/img/estrellas.jpg");
+	width: 350px;
+	height: 350px;
+}
+
+.imagen7{
+	background-image: url("/imagenes/dancinn.jpg");
+	width: 350px;
+	height: 350px;
+}
+
+.imagen7:hover{
+	background-image: url("../imagenes/gato cool 2.jpg");
+	width: 350px;
+	height: 350px;
+}
+
+.imagen8{
+	background-image: url("/imagenes/dancinn.jpg");
+	width: 350px;
+	height: 350px;
+}
+
+.imagen8:hover{
+	background-image: url("/imagenes/bob con una flor.jpg");
+	width: 350px;
+	height: 350px;
+}
